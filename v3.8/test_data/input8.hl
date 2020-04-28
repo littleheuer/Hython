@@ -1,0 +1,9 @@
+{
+    def a = [[2, 3], "hello", 5.0, 6], b = [10, 20];
+    def c = 2;
+    a = a + ["你", "好"]
+    print a;
+    a = a - 5.0;
+    print a;
+    print a[0][0];
+}
